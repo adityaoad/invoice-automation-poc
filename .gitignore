@@ -1,0 +1,8 @@
+venv/
+.env
+New.env
+__pycache__/
+*.xlsx
+*.jsonl
+*.pdf
+inbox_downloads/
