@@ -221,9 +221,4 @@ Package as a scheduled service (cron/Windows Task Scheduler).
 
 (Optional) Add human-in-the-loop review for low-confidence extractions.
 
-pgsql
-Copy code
-
 ---
-
-This way Copilot (and your VP deck) sees the **big picture**, step-by-step pipeline, schema, Excel format, Windows adjustments, costs, and next steps.  
